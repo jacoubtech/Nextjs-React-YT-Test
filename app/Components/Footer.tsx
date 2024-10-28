@@ -7,7 +7,7 @@ type Footerparam = {
 
 function Footer(props:Footerparam) {
     return(
-        <><div>da best</div><p className="footer">{props.footname}</p></>
+        <><div>da best</div><p className="footter">{props.footname}</p></>
         
     )
 }
